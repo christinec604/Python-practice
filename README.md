@@ -1,10 +1,10 @@
 # My Python Learning Journey
 
-## Overview
+## 👀 Overview
 
 This repository showcases my learning in basic Python programming concepts, featuring simple exercises and data visualization practice.
 
-## Key Exercises
+## 👩🏻‍💻 Key Exercises
 
 **• Basic Syntax**: Started with "Hello World" and grasped the structure of Python code.<br>
 **• Data Types**: Explored and utilized strings, numbers, booleans, arrays, and dictionaries in Python.<br>
@@ -18,7 +18,7 @@ This repository showcases my learning in basic Python programming concepts, feat
 **• Visualization with Matplotlib**: Used Matplotlib to display the generated word clouds.<br>
 
 
-## What I Learned
+## 📕 What I Learned
 • Understanding the fundamentals of Python syntax and basic concepts.<br>
 • Creating and manipulating different data types in Python.<br>
 • Implementing conditional logic to solve simple real-world problems.<br>
