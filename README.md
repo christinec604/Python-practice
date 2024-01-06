@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository showcases my learning in basic Python programming concepts, featuring simple exercises and data visulaization practice.
+This repository showcases my learning in basic Python programming concepts, featuring simple exercises and data visualization practice.
 
 ## Key Exercises
 
