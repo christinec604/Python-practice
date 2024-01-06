@@ -22,5 +22,5 @@ This repository showcases my learning in basic Python programming concepts, feat
 • Understanding the fundamentals of Python syntax and basic concepts.<br>
 • Creating and manipulating different data types in Python.<br>
 • Implementing conditional logic to solve simple real-world problems.<br>
-• Using for loops to iterate through lists and perform operations.<br>
+• Using loops to iterate through lists and perform operations.<br>
 • Building simple functions for repetitive tasks.<br>
